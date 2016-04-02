@@ -1,0 +1,13 @@
+Test URLs:
+
+List all prezis:
+http://localhost:8080/prezis
+
+Find prezi(s) by title:
+http://localhost:8080/prezis?title=commodo%20minim%20ullamco%20pariatur
+http://localhost:8080/prezis?title=fugiat%20anim%20proident%20dolor
+
+Sort prezis by the date of creation:
+http://localhost:8080/prezis/sortByDate
+
+
