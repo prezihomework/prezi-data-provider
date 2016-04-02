@@ -1,0 +1,10 @@
+{
+  "name": "prezi-data-provider",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Microservice which provides prezi data",
+  "author": "Gabor Benedek",
+  "dependencies": {
+    "restify": "4.0.3"
+  }
+}
