@@ -1,7 +1,7 @@
 var restify = require("restify"),
 	  fs = require("fs");
 
-var PREZIS_DIR 	= "data/";
+var PREZIS_DIR 	= "/data/";
 var prezis = new Array();
 
 //--------------------------------------------

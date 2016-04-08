@@ -1,8 +1,6 @@
 Welcome to prezi-data-provider micro service!
 ===================
 
-Hey! 
-
 This repository contains a little REST-API to providing input data for another web services.
 It's created by **JavaScript** with **Node.js v.5.1.0** and **npm v3.3.12**. 
 
@@ -45,8 +43,8 @@ Features
 There are three main features of this API:
 
 1. List all presentations by `/prezis` like 
-http://localhost:8080/prezis
+[http://localhost:8080/prezis]()
 2. Search for a presentation by title like
-http://localhost:8080/prezis?title=fugiat%20anim%20proident%20dolor
+[http://localhost:8080/prezis?title=fugiat%20anim%20proident%20dolor]()
 3. Sort presentations by the date of creation with `/prezis/sortByDate` 
-http://localhost:8080/prezis/sortByDate
+[http://localhost:8080/prezis/sortByDate]()

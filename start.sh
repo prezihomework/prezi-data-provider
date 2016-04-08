@@ -1,7 +1,5 @@
 #!/bin/sh
 
 npm install
-
-cd server
-node server.js
+node server/server.js
 
