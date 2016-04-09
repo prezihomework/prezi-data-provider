@@ -48,3 +48,7 @@ There are three main features of this API:
 [http://localhost:8080/prezis?title=fugiat%20anim%20proident%20dolor]()
 3. Sort presentations by the date of creation with `/prezis/sortByDate` 
 [http://localhost:8080/prezis/sortByDate]()
+
+Public site
+-------------
+[http://ec2-52-27-167-65.us-west-2.compute.amazonaws.com:8080/prezis]()
